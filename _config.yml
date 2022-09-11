@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: 'https://ysbchonglab.github.com'
 baseurl: ''
-title: 'Immuno_Informatics Lab'
+title: 'Immuno-Informatics Lab'
 description: 'Homepage of IMIL'
 permalink: pretty
-logo: ""
+logo: "/assets/images/logo.pdf"
 
 # Pagination
 paginate: 5
@@ -40,6 +40,10 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: Professor
+  url: /professor/
+- title: Members
+  url: /members/
 
 # Footer nav
 navigation_footer:

@@ -5,7 +5,7 @@ title: Professor Information
 # Seunghee Hong
 ![professor-image](https://biochem.yonsei.ac.kr/_attach/image/2022/04/thumb_HOadnbamuFNqELFlFWGx.jpg) ![symbol](/assets/images/symbolsmall.jpg)
 #### E-Mail: seungheehong@yonsei.ac.kr
-##### Office Phone Contact: 02-2123-2708
+##### Office Phone : 02-2123-2708
 ---
 ## Publications
 ---

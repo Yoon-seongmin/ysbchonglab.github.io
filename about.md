@@ -38,6 +38,7 @@ explore changes in expression among a cell type while incorporating spatial, reg
 
 ![explain](https://hbctraining.github.io/scRNA-seq_online/img/sc_analyses.png)
 
+More Information on Reference Page...
 
 ---
 Resource made by Junhan Kim

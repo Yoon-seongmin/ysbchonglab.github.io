@@ -18,6 +18,7 @@ feature_image: "https://images.unsplash.com/photo-1622037022824-0c71d511ef3c?ixl
 * Seram An
 * Chaeyoun Kim
 * Woohyun Song
+* Hyunjo Suh
 
 ### Physician Scientist
 * Hyeonkyu Choi

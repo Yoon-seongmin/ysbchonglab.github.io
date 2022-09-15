@@ -1,7 +1,7 @@
 ---
-title: Website of Immuno-Informatics Lab
-feature_image: "https://images.unsplash.com/photo-1522252234503-e356532cafd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1325&q=80"
-feature_text: |
+title: Immuno-Informatics Lab
+feature_image: "https://i.picsum.photos/id/681/2560/600.jpg?hmac=C8oNwhNuCEt2Ck2rVdvJU4BOTz7q2GOkD4CG-WMmQzE"
+feature_text: | 
 ---
 ![symbol](/assets/images/symbolsmall.jpg)
 ```{python}

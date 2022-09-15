@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Immuno-Informatics Lab'
 description: 'Homepage of IMIL'
 permalink: pretty
-logo: "/assets/images/imil_logo.png"
+logo: "/assets/images/Myproject-1.png"
 
 # Pagination
 paginate: 5

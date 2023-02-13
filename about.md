@@ -1,12 +1,14 @@
 ---
-title: About our Lab & Research
+title: Lab Research Major Techniques
 categories: [Bioinformatics, Immunology, python, R]
 ---
-### Bioinformatics
-### Immunology
-### Python & R
----
+### Bioinformatics  
 
+### Immunology  
+
+### Python & R  
+
+---
 ### About Single-Cell RNA Sequencing
 Single Cell RNA sequencing is a very on-going technology adapted by various fields in Biology
 
@@ -27,5 +29,4 @@ More Information on Reference Page...
 Resource made by Junhan Kim
 ![singlecell1](/assets/images/photo1.png)
 ![singlecell2](/assets/images/photo2.png)
-
 ---

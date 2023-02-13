@@ -11,4 +11,3 @@ Immuno-Informatics_Lab = {
   'Available-Hours': '9:30 ~ 17:30'  
 }
 ```
-

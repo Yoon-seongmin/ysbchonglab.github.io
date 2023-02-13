@@ -38,6 +38,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Research
+  url: /research/
 - title: Professor
   url: /professor/
 - title: Members

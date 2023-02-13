@@ -7,23 +7,6 @@ categories: [Bioinformatics, Immunology, python, R]
 ### Python & R
 ---
 
-### Research
-
-* Single-Cell RNA Sequencing
-* Bulk-RNA Sequencing
-* Align
-
-### Research Area
-
-* Atopic Dermatitis
-* Psoriasis
-* Lung Cancer
-* Osteoarthritis
-* Ankylosing Spondylitis
-* Brain Organoid
-* Pancreatic Cancer
-* Various AutoImmune Diseases
-
 ### About Single-Cell RNA Sequencing
 Single Cell RNA sequencing is a very on-going technology adapted by various fields in Biology
 

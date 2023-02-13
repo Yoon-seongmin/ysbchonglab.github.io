@@ -6,6 +6,16 @@ title: Professor Information
 ![professor-image](https://biochem.yonsei.ac.kr/_attach/image/2022/04/thumb_HOadnbamuFNqELFlFWGx.jpg) ![symbol](/assets/images/symbolsmall.jpg)
 #### E-Mail: seungheehong@yonsei.ac.kr
 ##### Office Phone : 02-2123-2708
+
+
+---
+##### C.V
+* 1999-2003 Yonsei University Department of Biochemistry
+* 2004-2010 Case Western Reserve Univeristy - Ph.D
+* 2011-2016 Baylor Research Institute for Immunology - Postdoctoral fellow
+* 2017-2021 Weill Cornell Medicine - Senior Bioinformatics Analyst
+* 2021-present Yonsei University - Assistant Professor
+
 ---
 ## Publications
 ---
@@ -41,10 +51,3 @@ Systemic lupus erythematosus (SLE) is an autoimmune disease characterized by los
 Type I interferons (IFN) are crucial mediators of human innate and adaptive immunity and are massively produced from plasmacytoid dendritic cells (pDC). IRF7 is a critical regulator of type I IFN production when pathogens are detected by Toll-like receptor (TLR) 7/9 in pDC. However, hyperactivation of pDC can cause life-threatening autoimmune diseases. To avoid the deleterious effects of aberrant pDC activation, tight regulation of IRF7 is required. Nonetheless, the detailed mechanisms of how IRF7 transcription is regulated in pDC are still elusive. MYC is a well-known highly pleiotropic transcription factor however the role of MYC in pDC function is not well defined yet. To identify the role of transcription factor MYC in human pDC, we employed a knockdown technique using human pDC cell line, GEN2.2. When we knocked down MYC in the pDC cell line, production of IFN-stimulated genes was dramatically increased and was further enhanced by the TLR9 agonist CpGB. Interestingly, MYC is shown to be recruited to the IRF7 promoter region through interaction with NCOR2/HDAC3 for its repression. In addition, activation of TLR9-mediated NF-kB and MAPK and nuclear translocation of IRF7 were greatly enhanced by MYC depletion. Pharmaceutical inhibition of MYC recovered IRF7 expression, further confirming the negative role of MYC in the antiviral response by pDC. Therefore, our results identify the novel immunomodulatory role of MYC in human pDC and may add to our understanding of aberrant pDC function in cancer and autoimmune disease.
 
 ---
-
-##### Career
-* 1999-2003 Yonsei University Department of Biochemistry
-* 2004-2010 Case Western Reserve Univeristy - Ph.D
-* 2011-2016 Baylor Research Institute for Immunology - Postdoctoral fellow
-* 2017-2021 Weill Cornell Medicine - Senior Bioinformatics Analyst
-* 2021-present Yonsei University - Assistant Professor

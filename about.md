@@ -1,20 +1,32 @@
 ---
-title: Lab Research Major Techniques
-categories: [Bioinformatics, Immunology, python, R]
+title: Lab Techniques
+categories: [BioInformatics, Immunology, Python, R]
 ---
-### Bioinformatics  
-
-### Immunology  
-
-### Python & R  
+##### Bioinformatics & Immunology
+##### Python & R  
 
 ---
+* Single-Cell RNA Sequencing
+* Epigenetic/ATAC-seq  
+
+![atacseq](/assets/images/atac_and_scrna.png)  
+*Transcription Factor and Epigenetic Profile Analysis*
+
+* Tagged Proteins/CITE-seq  
+
+![citeseq](/assets/images/Cite-seq.png "CITE-seq"){: width="70%", height="70%"}
+
+* Bulk-RNA Sequencing
+* Analytic Researches
+* Spatial Transcriptomics  
+---
+
 ### About Single-Cell RNA Sequencing
 Single Cell RNA sequencing is a very on-going technology adapted by various fields in Biology
+##### Reference : [Introduction to single-cell RNA-seq](https://hbctraining.github.io/scRNA-seq_online/lessons/01_intro_to_scRNA-seq.html)
+  
 
-### Reference : [Introduction to single-cell RNA-seq](https://hbctraining.github.io/scRNA-seq_online/lessons/01_intro_to_scRNA-seq.html)
-This exciting and cutting-edge method can be used to:
-
+This exciting and cutting-edge method can be used to
 explore which cell types are present in a tissue
 identify unknown/rare cell types or states
 elucidate the changes in gene expression during differentiation processes or across time or states

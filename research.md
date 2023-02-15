@@ -5,11 +5,13 @@ categories: [AutoImmune, Cancer, Multi-Omics]
 ---
 #### <span style="background-color: #dcffe4"> AutoImmune Diseases </span>  
 
+* Systematic Lupus Erythmatosus
 * Atopic Dermatitis
 * Psoriasis
 * Ankylosing Spondylitis
+* Juvenille Dermatomyositis
 
-AutoImmune diseases are systemic disease that affects whole body. They are complicated to understand and phenotypes varies person to person. Recently developed technology of single-cell sequencing can be used to elucidate these AutoImmune diseases more deeply.  
+Autoimmune diseases are systemic disease that affects whole body. They are complicated to understand and phenotypes varies person to person. Recently developed technology of single-cell sequencing can be used to elucidate these Autoimmune diseases more deeply.  
 
 ---
 #### <span style="background-color: #ffdce0"> Cancer </span>  

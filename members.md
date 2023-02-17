@@ -25,6 +25,9 @@ title: Members
 #### Researcher / Server Administrator
 * Junhan Kim
 
+#### Physician Scientist
+* Hyeonkyu Choi
+
 #### Current Interns / Research Undergraduates
 * Koyeon Kim
 * Hyobin Park
@@ -35,6 +38,3 @@ title: Members
 * Seram An
 * Hyunjo Suh
 ...
-
-#### Physician Scientist
-* Hyeonkyu Choi

@@ -38,4 +38,16 @@ More Information on Reference Page...
 Resource made by Junhan Kim
 ![singlecell1](/assets/images/photo1.png){: width="100%" }
 ![singlecell2](/assets/images/photo2.png){: width="100%" }
+
 ---
+
+## *Trajectory Analysis*
+
+
+## *Transcription Factor Analysis*
+
+
+## *Cell-Cell Interaction Analysis*
+
+
+## *Module Analysis*

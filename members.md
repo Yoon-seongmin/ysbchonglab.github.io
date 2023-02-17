@@ -1,11 +1,15 @@
 ---
 title: Members
-feature_image: "https://images.unsplash.com/photo-1622037022824-0c71d511ef3c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
 ---
-
 ##### Office Contact 02-2123-4630
 ###### Homepage Editor: lkc719@yonsei.ac.kr
 ---
+
+*2023 KOGO conference*
+![KOGO](/assets/images/kogo_pic.png){: width="90%", height="90%"} 
+
+---
+
 
 #### Alumni
 * Hwajin Choi

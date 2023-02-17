@@ -1,7 +1,6 @@
 ---
-title: Immuno-Informatics Lab
-feature_image: "https://i.picsum.photos/id/681/2560/600.jpg?hmac=C8oNwhNuCEt2Ck2rVdvJU4BOTz7q2GOkD4CG-WMmQzE"
-feature_text: | 
+feature_image: "https://fastly.picsum.photos/id/256/2560/600.jpg?hmac=tlP7nOg0yXDtQn3hLjbA2rknGlSkLUCD0vwnNuDhEC8"
+feature_text: <p style="font-size:60px"><span class="black">Immuno-Informatics Lab</span></p>
 ---
 ![symbol](/assets/images/symbolsmall.jpg)
 ```{python}

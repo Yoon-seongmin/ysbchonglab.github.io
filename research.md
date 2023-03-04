@@ -15,7 +15,8 @@ Autoimmune diseases are systemic disease that affects whole body. They are compl
 
 Heterogeneous Phenotypes and Clinical Information can be stratified and be analyzed integratively by Single-cell RNAseq as seen [below](https://www.nature.com/articles/s41590-020-0743-0)  
 
-![Lupus_stratification](/assets/images/lupus.png){: width="65%", height="65%"}  
+![Lupus_stratification](/assets/images/lupus.png){: width="65%", height="65%"}
+![Lupus_Phenotypes](/assets/images/lupus2.png){: width="65%", height="65%"}
 
 
 ---

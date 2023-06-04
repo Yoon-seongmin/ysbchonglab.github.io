@@ -11,7 +11,7 @@ title: Members
 ---
 
 
-#### Alumni
+#### Ph.D Course
 * Hwajin Choi
 
 ---
@@ -29,12 +29,13 @@ title: Members
 * Hyeonkyu Choi
 
 #### Current Interns / Research Undergraduates
+* Da song Hong
+
+#### Previous Interns / Research Undergraduates
 * Koyeon Kim
 * Hyobin Park
 * Dahyun Kim
 * Yubin Cho
-
-#### Previous Interns / Research Undergraduates
 * Seram An
 * Hyunjo Suh
 ...

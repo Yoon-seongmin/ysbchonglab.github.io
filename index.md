@@ -10,7 +10,7 @@ Newly Moved!
 Immuno-Informatics_Lab = {
   'LAB':'Yonsei University, Science Research Center, S302',
   'Professor Office':'Science Research Center, S314',
-  'Contact': Will be Updated,
+  'Contact': 02-2123-4630,
   'Available-Hours': '9:30 ~ 17:30',  
 }
 ```

@@ -29,9 +29,14 @@ title: Members
 * Hyeonkyu Choi
 
 #### Current Interns / Research Undergraduates
-* Da song Hong
+* Yu Rim Jung
+* Sae Leen Lee
+* Jong Bin Jung
+* Jeong Wook Chun
+* Yae Kyeong Lee
 
 #### Previous Interns / Research Undergraduates
+* Da song Hong
 * Koyeon Kim
 * Hyobin Park
 * Dahyun Kim

@@ -32,7 +32,7 @@ title: Members
 * Yu Rim Jung
 * Sae Leen Lee
 * Jong Bin Jung
-* Jeong Wook Chun
+* Jeong Uk Cheon
 * Yae Kyeong Lee
 
 #### Previous Interns / Research Undergraduates

@@ -4,7 +4,6 @@ feature_text: <p style="font-size:60px"><span class="black">Immuno-Informatics L
 ---
 ![symbol](/assets/images/symbolsmall.jpg)
 
-Newly Moved!  
 
 ```{python}
 Immuno-Informatics_Lab = {

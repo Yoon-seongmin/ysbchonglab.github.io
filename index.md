@@ -9,7 +9,6 @@ feature_text: <p style="font-size:60px"><span class="black">Immuno-Informatics L
 Immuno-Informatics_Lab = {
   'LAB':'Yonsei University, Science Research Center, S302',
   'Professor Office':'Science Research Center, S314',
-  'Contact': 02-2123-4630,
   'Available-Hours': '9:30 ~ 17:30',  
 }
 ```

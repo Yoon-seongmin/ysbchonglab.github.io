@@ -29,13 +29,16 @@ title: Members
 * Hyeonkyu Choi
 
 #### Current Interns / Research Undergraduates
+* Nam Yi Jin
+* Cho Yu Bin
+* Jang Hyun Been
+
+#### Previous Interns / Research Undergraduates
 * Yu Rim Jung
 * Sae Leen Lee
 * Jong Bin Jung
 * Jeong Uk Cheon
 * Yae Kyeong Lee
-
-#### Previous Interns / Research Undergraduates
 * Da song Hong
 * Koyeon Kim
 * Hyobin Park

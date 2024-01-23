@@ -15,7 +15,7 @@ categories: [AutoImmune, Cancer, Multi-Omics]
 
 <span style="font-family:Noto Sans; font-size: 35px; background-color: #ffdce0"> Atopic Dermatitis </span>  
   
-<span style="font-family:Roboto; font-size: 20px;">AD(Eczema) is a chronic inflammatory skin disease commonly expressed in adult and childhood. It is evaluated by skin symptom severity and scored by EASI(Eczema Area Severity Index)
+<span style="font-family:Roboto; font-size: 20px;">AD(Eczema) is a chronic inflammatory skin disease commonly expressed in adult and childhood. It is evaluated by skin severity score EASI(Eczema Area Severity Index)
 ![AD_slide](/assets/images/slide/AD_PBMC_GA.png)
 
 <span style="font-family:Noto Sans; font-size: 35px;background-color: #ffdce0">Psoriasis Vulgaris </span>  
@@ -30,13 +30,13 @@ categories: [AutoImmune, Cancer, Multi-Omics]
   
 ![PDAC_slide](/assets/images/slide/PDAC_GA.png)  
 
-<span style="font-family:Noto Sans; font-size: 35px;background-color: #f5f0ff">Phelan Mcdermid Syndrome & BBB breakdown </span>  
-  
-![Brain_slide](/assets/images/slide/Brain_GA.png)  
-
 <span style="font-family:Noto Sans; font-size: 35px;background-color: #F7DDBE">Colorectal Cancer </span>  
   
 ![CRC_slide](/assets/images/slide/CRC_GA.png)  
-
-<span style="font-family:Noto Sans; bfont-size: 35px;ackground-color: #F7DDBE">Idiopathic Pulmonary Fibrosis(IPF) </span>  
+  
+<span style="font-family:Noto Sans; font-size: 35px;background-color: #f5f0ff">Phelan Mcdermid Syndrome & BBB breakdown </span>  
+  
+![Brain_slide](/assets/images/slide/Brain_GA.png)  
+  
+<span style="font-family:Noto Sans; font-size: 35px;background-color: #F7DDBE">Idiopathic Pulmonary Fibrosis(IPF) </span>  
 

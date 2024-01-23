@@ -10,24 +10,26 @@ title: Members
 
 ---
 
-
 #### Ph.D Course
-* Hwajin Choi
+* Hwajin Choi:Lung Cancer, Idiopathic inflammatory myositis  
+  
 
 ---
-
 #### Graduate Students
-* Kyungchun Lee
-* Sungmin Yoon
-* Chaeyoun Kim
-* Woohyun Song
-
+* Kyungchun Lee: Atopic Dermatitis, Chronic LCMV infection, Behcet Disease, TCRseq  
+  
+* Sungmin Yoon: Colorectal Cancer, hepatic disorder(NASH)  
+  
+* Chaeyoun Kim: Phelan Mcdermid Syndrome, Blood Brain Barrier breakdown  
+  
+* Woohyun Song: Pancreatic Cancer, Liver regeneration  
+  
 #### Researcher / Server Administrator
-* Junhan Kim
-
+* Junhan Kim: Psoriasis Vulgaris  
+  
 #### Physician Scientist
-* Hyeonkyu Choi
-
+* Hyeonkyu Choi: Idiopathic pulmonary fibrosis  
+  
 #### Current Interns / Research Undergraduates
 * Nam Yi Jin
 * Cho Yu Bin

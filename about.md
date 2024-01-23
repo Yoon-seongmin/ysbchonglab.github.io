@@ -1,5 +1,5 @@
 ---
-title: Lab Techniques
+title:
 categories: [BioInformatics, Immunology, Python, R]
 ---
 ##### Bioinformatics & Immunology
@@ -41,13 +41,10 @@ Resource made by Junhan Kim
 
 ---
 
-## *Trajectory Analysis*
+#### Trajectory Analysis
 
 
-## *Transcription Factor Analysis*
+#### Transcription Factor Analysis
 
 
-## *Cell-Cell Interaction Analysis*
-
-
-## *Module Analysis*
+#### Cell-Cell Interaction Analysis

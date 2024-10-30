@@ -1,0 +1,26 @@
+Sample,Gender,Smoking_Status,Age_Group,Air_Pollution,Diet,Condition
+Sample_1,Female,Smoker,51-70,High,Healthy_Diet,Healthy
+Sample_2,Male,Smoker,51-70,High,High_Fat_Diet,Lung Cancer
+Sample_3,Female,Non-Smoker,51-70,High,Healthy_Diet,Atopy
+Sample_4,Female,Non-Smoker,51-70,High,Healthy_Diet,Atopy
+Sample_5,Female,Smoker,18-30,Low,Healthy_Diet,Healthy
+Sample_6,Female,Smoker,18-30,Low,Healthy_Diet,Healthy
+Sample_7,Female,Non-Smoker,51-70,Low,High_Fat_Diet,Healthy
+Sample_8,Male,Non-Smoker,31-50,High,Healthy_Diet,Atopy
+Sample_9,Female,Smoker,18-30,High,Healthy_Diet,Atopy
+Sample_10,Male,Non-Smoker,51-70,High,High_Fat_Diet,Atopy
+Sample_11,Male,Smoker,18-30,High,High_Fat_Diet,Healthy
+Sample_12,Female,Smoker,18-30,Low,Healthy_Diet,Lung Cancer
+Sample_13,Male,Non-Smoker,31-50,High,Healthy_Diet,Atopy
+Sample_14,Male,Non-Smoker,51-70,High,Healthy_Diet,Healthy
+Sample_15,Male,Smoker,51-70,Low,Healthy_Diet,Healthy
+Sample_16,Female,Smoker,31-50,High,Healthy_Diet,Healthy
+Sample_17,Female,Non-Smoker,31-50,Low,Healthy_Diet,Healthy
+Sample_18,Male,Smoker,51-70,High,High_Fat_Diet,Atopy
+Sample_19,Female,Non-Smoker,51-70,High,Healthy_Diet,Atopy
+Sample_20,Female,Smoker,31-50,High,Healthy_Diet,Healthy
+Sample_21,Female,Non-Smoker,51-70,Low,High_Fat_Diet,Lung Cancer
+Sample_22,Female,Non-Smoker,51-70,Low,Healthy_Diet,Lung Cancer
+Sample_23,Female,Non-Smoker,31-50,Low,Healthy_Diet,Lung Cancer
+Sample_24,Female,Smoker,51-70,Low,High_Fat_Diet,Lung Cancer
+Sample_25,Female,Non-Smoker,31-50,High,High_Fat_Diet,Lung Cancer
